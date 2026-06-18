@@ -1,8 +1,8 @@
 # PJ_Trainee
 Membros:
-Felipe Hideki de Ávila Oshiro
-Lucas Pereira de Barros
-Mariana Oliveira Vieira
+Felipe Hideki de Ávila Oshiro,
+Lucas Pereira de Barros,
+Mariana Oliveira Vieira,
 Valentina Franco Moura
 
 dataset dados_climaticos_sp_24_25
